@@ -18,7 +18,7 @@ a {
 }
 
 .top-wrapper {
-  padding: 100px 0 180px 0;
+  padding: 100px 100 180px 0;
   background-image: url(./navy_takeoff.png);
   background-size: cover;
   color: white;
